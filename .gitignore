@@ -1,0 +1,9 @@
+/src/trainDataNegative/
+/src/trainDataPositive/
+/.idea/
+/src/testDataNegative/
+/src/testDataPositive/
+/src/negativeImages/
+/src/positiveImages/
+/src/checkPoint/
+/src/moirePattern3CNN_.h5
